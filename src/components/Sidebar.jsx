@@ -15,7 +15,7 @@ export function Sidebar() {
                 <Avatar src="https://github.com/jrcvlct.png" />
 
                 <strong>Josimar Junior</strong>
-                <span>Web Developer</span>
+                <span>Dev Jr</span>
             </div>
 
             <footer>
